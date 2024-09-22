@@ -92,3 +92,9 @@ position:relative;
 50%{top:0em}
 100%{top:0em;}
 }
+
+img {
+    border-radius: 50%;
+    height: auto;
+    width: 140;
+}
