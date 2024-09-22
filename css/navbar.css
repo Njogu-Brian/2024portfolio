@@ -17,8 +17,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
-    background-color: teal
-    font-family: "Montserrat", sans-serif;
+    background-color: #8a2be2;
 
 }
 
@@ -49,9 +48,9 @@ nav {
 }
 
 .nav-links a:hover:not(.active) {
-    background-color: lightseagreen;
+    background-color: #ac77de;
 }
 
 .nav-links li a.active {
-    background-color: #4caf50;
+    background-color: #432063;
 }
