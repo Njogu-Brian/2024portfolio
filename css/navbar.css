@@ -18,6 +18,7 @@ nav {
     align-items: center;
     min-height: 8vh;
     background-color: #8a2be2;
+    font-family: sans-serif;
 
 }
 
@@ -54,3 +55,4 @@ nav {
 .nav-links li a.active {
     background-color: #432063;
 }
+
